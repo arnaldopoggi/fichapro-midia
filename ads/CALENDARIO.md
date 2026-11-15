@@ -4,14 +4,6 @@ BASE = https://raw.githubusercontent.com/arnaldopoggi/fichapro-midia/criativos-t
 
 Cada dia: create_image_post com a imagem BASE + caminho e a legenda entre aspas triplas, exatamente como está.
 
-CALENDÁRIO abaixo. Se a data não está no calendário (antes de 16/11/2026 ou depois de 09/12/2026), não publique nada. Se já passou de 09/12/2026, notifique o dono (PushNotification) que a campanha "Gatilhos de vendas" terminou e que ele pode desativar esta tarefa agendada.
-PASSO 2: antes de publicar, confira com curl -sI que a URL da peça responde HTTP 200. Use sempre a URL raw abaixo.
-PASSO 3: publique exatamente a peça do dia, com a legenda exatamente como está aqui (não reescreva). Publique uma vez só. Não publique peças de outros dias, nem para compensar um dia que falhou.
-PASSO 4: termine com um resumo curto em português: o que foi publicado e o ID. Se deu certo, não notifique. Se falhou (inclusive URL sem HTTP 200), notifique (PushNotification) com o erro exato. Se o erro for de permissão (instagram_content_publish), diga ao dono que ele precisa reconectar a conta Oceanos em https://onboard.windsor.ai/app/instagram usando "Connect with Facebook instead" e permitindo todas as permissões. Nunca tente contornar o erro por outro caminho.
-
-URL base (ramo criativos-trafego-pago do repositório fichapro-midia):
-BASE = https://raw.githubusercontent.com/arnaldopoggi/fichapro-midia/criativos-trafego-pago/ads/
-
 CALENDÁRIO
 
 16/11/2026 — POST (create_image_post): BASE + ficha-pro/ad-01-perda.jpg
