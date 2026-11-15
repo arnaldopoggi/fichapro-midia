@@ -74,7 +74,7 @@ Se você precisou abrir o banco para responder, o Oceanos é para você.
 ✔ DRE e fluxo de caixa automáticos
 ✔ Fatura do cartão lida do PDF
 
-👉 Teste grátis por 40 dias, sem cartão. Link na bio.
+👉 Teste grátis por 7 dias. Link na bio.
 
 #gestaofinanceira #fluxodecaixa #dre #pequenasempresas #empreendedorismo #controlefinanceiro #financasempresariais
 
@@ -83,7 +83,7 @@ Financeiro completo por ≈ R$ 82/mês.
 
 Plano anual de R$ 987, sem fidelidade, com integração Asaas, Banco Cora e Domínio.
 
-Comece pelo teste: 40 dias grátis, sem cartão de crédito.
+Comece pelo teste: 7 dias grátis.
 
 👉 Link na bio.
 
@@ -100,7 +100,7 @@ Do extrato ao DRE em 4 passos:
 
 Várias empresas e as finanças pessoais em um só lugar.
 
-👉 Teste grátis por 40 dias. Link na bio.
+👉 Teste grátis por 7 dias. Link na bio.
 
 #dre #fluxodecaixa #conciliacaobancaria #gestaofinanceira #pequenasempresas #contabilidade
 
@@ -109,7 +109,7 @@ A planilha não fecha de novo?
 
 Importe o extrato, concilie e veja DRE e fluxo de caixa prontos.
 
-👉 40 dias grátis, sem cartão. Link na bio.
+👉 7 dias grátis. Link na bio.
 
 #gestaofinanceira #fluxodecaixa #dre #pequenasempresas #empreendedorismo
 

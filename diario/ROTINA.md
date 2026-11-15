@@ -41,7 +41,7 @@ Gire os temas da manhã e não repita o mesmo tema em dois dias seguidos. Para s
 
 ## Ficha dos produtos (funções comprovadas, não acrescente nada)
 
-- **Oceanos Financeiro**: importa extrato OFX e CSV, faz conciliação bancária, monta DRE e fluxo de caixa automáticos, lê a fatura do cartão do PDF e guarda várias empresas e as finanças pessoais num lugar só. Integra com Asaas, Banco Cora e Domínio. Teste de 40 dias grátis, sem cartão.
+- **Oceanos Financeiro**: importa extrato OFX e CSV, faz conciliação bancária, monta DRE e fluxo de caixa automáticos, lê a fatura do cartão do PDF e guarda várias empresas e as finanças pessoais num lugar só. Integra com Asaas, Banco Cora e Domínio. Teste de 7 dias grátis (não é mais de 40 dias; não diga "sem cartão").
 - **Preço Certo**: forma o preço de venda a partir do XML da nota. Valida o NCM na base da Receita, calcula IBS e CBS com a calculadora oficial e soma ICMS, ST e MVA de compra interestadual. Atende Simples, Simples híbrido e Lucro Presumido e monta até 3 tabelas (consumidor, revenda, atacado). Mostra o preço de hoje e a estimativa de 2027, em PDF ou Excel. Teste de 7 dias grátis.
 - **Ficha Pro** (restaurantes): ficha técnica com sub-receitas, preço com markup e impostos, estoque FEFO, CMV real. A IA monta a ficha a partir da receita falada. Importa o XML da nota e consulta NCM e CEST. Teste de 7 dias grátis.
 - **Oceano de Compras**: classificação ABC × XYZ, alerta de pré-ruptura com o prazo do fornecedor, perda em R$ por item zerado, cotação às cegas. Teste de 7 dias grátis.
