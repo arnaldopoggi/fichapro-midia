@@ -7,7 +7,7 @@ from playwright.sync_api import sync_playwright
 
 FP = dict(pasta="ficha-pro", nome="FICHA", nome2="PRO", cor="#FF8A4C", escuro="#2A1200", cta="7 dias grátis · sem cartão",
   icone='<svg width="44" height="44" viewBox="0 0 44 44" fill="none" stroke="{c}" stroke-width="3.4" stroke-linecap="round"><circle cx="27" cy="22" r="13"/><circle cx="27" cy="22" r="6"/><path d="M6 8v28M2 8v8a4 4 0 0 0 8 0V8"/></svg>')
-OF = dict(pasta="oceanos-financeiro", nome="OCEANOS", nome2="FINANCEIRO", cor="#34D399", escuro="#04281C", cta="40 dias grátis · sem cartão",
+OF = dict(pasta="oceanos-financeiro", nome="OCEANOS", nome2="FINANCEIRO", cor="#34D399", escuro="#04281C", cta="7 dias grátis",
   icone='<svg width="44" height="44" viewBox="0 0 44 44" fill="none" stroke="{c}" stroke-width="3.4" stroke-linecap="round"><path d="M3 12c5-5 9 5 14 0s9 5 14 0 6 2 10 0M3 22c5-5 9 5 14 0s9 5 14 0 6 2 10 0M3 32c5-5 9 5 14 0s9 5 14 0 6 2 10 0"/></svg>')
 
 TV = dict(pasta="terra-a-vista", nome="TERRA", nome2="À VISTA", cor="#E8CE94", escuro="#231A05", cta="Comece grátis · no celular",
@@ -40,7 +40,7 @@ ADS += [
  (FP, "06-contraste", "Para restaurantes", "CMV estimado é chute. *CMV real é gestão.*", "Ficha técnica, estoque FEFO e preço com markup e impostos."),
  (OF, "01-dor", "Para donos de pequenas empresas", "Vendeu bem e *o dinheiro sumiu*?", "Veja o fluxo de caixa e o DRE da sua empresa, sem planilha."),
  (OF, "02-facilidade", "Sem planilha", "Importe o extrato. *O DRE sai pronto.*", "OFX ou CSV, com conciliação bancária."),
- (OF, "03-risco-zero", "Teste antes de decidir", "*40 dias grátis.* Sem cartão.", "Tempo para fechar um mês inteiro no sistema antes de pagar."),
+ (OF, "03-risco-zero", "Teste antes de decidir", "*7 dias grátis* para testar.", "Importe o extrato e veja o DRE da sua empresa antes de decidir."),
  (OF, "04-preco", "Quanto custa", "Financeiro completo por *≈ R$ 82/mês*.", "Plano anual de R$ 987, sem fidelidade."),
  (OF, "05-mistura", "Para donos de pequenas empresas", "Conta da empresa e pessoal *misturadas*?", "Várias empresas e as finanças pessoais em um lugar só."),
  (OF, "06-contraste", "Para donos de pequenas empresas", "Lucro no papel *não paga boleto*.", "DRE e fluxo de caixa automáticos, a partir do extrato."),
