@@ -1,0 +1,11 @@
+{
+  "tipo": "dado",
+  "etiqueta": "Dado do dia · 15/11",
+  "titulo": "Varejo subiu, mas o *supermercado* vendeu menos",
+  "numero": "-0,5%",
+  "numero_legenda": "vendas de supermercados e alimentos, set/ago",
+  "corpo": ["Varejo geral: +0,2% em setembro", "Farmácias: +1,0% no mês", "Móveis e eletrodomésticos: -2,6%"],
+  "solucao": "Venda fraca pede estoque enxuto. *Oceano de Compras*: curva ABC × XYZ e alerta de ruptura.",
+  "fonte": "Fonte: IBGE, PMC setembro/2026, divulgada em 13/11/2026",
+  "rodape": "Salve para revisar seu estoque"
+}
