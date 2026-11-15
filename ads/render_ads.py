@@ -10,7 +10,28 @@ FP = dict(pasta="ficha-pro", nome="FICHA", nome2="PRO", cor="#FF8A4C", escuro="#
 OF = dict(pasta="oceanos-financeiro", nome="OCEANOS", nome2="FINANCEIRO", cor="#34D399", escuro="#04281C", cta="40 dias grátis · sem cartão",
   icone='<svg width="44" height="44" viewBox="0 0 44 44" fill="none" stroke="{c}" stroke-width="3.4" stroke-linecap="round"><path d="M3 12c5-5 9 5 14 0s9 5 14 0 6 2 10 0M3 22c5-5 9 5 14 0s9 5 14 0 6 2 10 0M3 32c5-5 9 5 14 0s9 5 14 0 6 2 10 0"/></svg>')
 
+TV = dict(pasta="terra-a-vista", nome="TERRA", nome2="À VISTA", cor="#E8CE94", escuro="#231A05", cta="Comece grátis · no celular",
+  nota="App gratuito. Não oferece empréstimos.",
+  icone='<svg width="44" height="44" viewBox="0 0 44 44" fill="none" stroke="{c}" stroke-width="3.4" stroke-linecap="round"><circle cx="22" cy="12" r="5"/><path d="M8 26c4-7 24-7 28 0M3 36c5-5 9 5 14 0s9 5 14 0 6 2 10 0"/></svg>')
+PC = dict(pasta="preco-certo", nome="PREÇO", nome2="CERTO", cor="#D4B25A", escuro="#1F1600", cta="Teste grátis 7 dias · sem cartão",
+  direita="POGGI · TECNOLOGIA OCEANOS",
+  icone='<svg width="44" height="44" viewBox="0 0 44 44" fill="none" stroke="{c}" stroke-width="3.4" stroke-linejoin="round"><path d="M22 4l18 18-18 18L4 22z"/><path d="M22 15l7 7-7 7-7-7z"/></svg>')
+
 ADS = [
+ (TV, "01-alivio", "Para organizar as dívidas", "Dívida não se resolve no susto. *Se resolve com rota.*", "Liste dívidas e cartões e veja o caminho até quitar."),
+ (TV, "02-juros", "Juros sobre juros", "R$ 1.000 no cheque especial viram *R$ 2.518* em 12 meses.", "Exemplo: 8% ao mês, sem nenhum pagamento. As taxas variam por banco."),
+ (TV, "03-escolha", "Qual é o seu caminho?", "Bola de Neve ou *Avalanche*?", "O simulador compara os dois com os seus números."),
+ (TV, "04-primeiro-passo", "Comece pelo começo", "O primeiro passo é *enxergar tudo*.", "Diagnóstico financeiro grátis, em poucos minutos."),
+ (TV, "05-progresso", "Um pouco toda semana", "Sair das dívidas é *uma missão por semana*.", "Missões semanais para você não perder o rumo."),
+ (TV, "06-gratis", "Sem pegadinha", "*De graça.* E não oferece empréstimo.", "Só organiza dívidas e cartões e mostra a rota até quitar."),
+ (PC, "01-perda", "Formação de preço", "Preço no chute é *lucro indo embora*.", "Forme o preço com custo, impostos, despesas e margem."),
+ (PC, "02-compra-fora", "Compra de outro estado", "Comprou de outro estado? *Seu preço pode estar errado.*", "O Preço Certo soma ICMS, ST e MVA no custo, sozinho."),
+ (PC, "03-exemplo", "Exemplo do simulador", "R$ 28,00 na nota. *+ R$ 3,64* de ICMS que ninguém viu.", "Camiseta comprada em SP, Simples Nacional. Fora do preço, sai do lucro."),
+ (PC, "04-facilidade", "Sem planilha", "Arraste o XML da nota. *O preço sai pronto.*", "Produto, NCM, custo e origem preenchidos para você."),
+ (PC, "05-2027", "Reforma tributária", "Seu preço está pronto para *2027*?", "Veja o preço de hoje e a estimativa de 2027, produto a produto."),
+ (PC, "06-tabelas", "Varejo e atacado", "Um preço só para varejo e atacado? *Alguém perde.*", "Monte até 3 tabelas: consumidor, revenda e atacado."),
+]
+ADS += [
  (FP, "01-perda", "Para restaurantes", "Seu prato mais vendido pode estar *dando prejuízo*.", "Descubra o custo real com ficha técnica, impostos e markup."),
  (FP, "02-curiosidade", "Para restaurantes", "Quanto *sobra* de cada prato que sai da cozinha?", "Ficha técnica com sub-receitas e CMV real."),
  (FP, "03-facilidade", "Novo jeito de fazer ficha", "Fale a receita. *A IA monta a ficha.*", "Ingredientes, quantidades e custos organizados para você."),
@@ -27,6 +48,7 @@ ADS = [
 
 def pagina(p, tag, tit, sub):
     c = p["cor"]
+    tit = tit.replace("R$ ", "R$\u00a0"); sub = sub.replace("R$ ", "R$\u00a0")
     t = re.sub(r"\*(.+?)\*", rf'<span style="color:{c}">\1</span>', html.escape(tit))
     n = len(tit.replace("*", ""))
     fs = 124 if n < 30 else 108 if n < 42 else 94
@@ -40,11 +62,12 @@ padding:80px;display:flex;flex-direction:column}}
 .tag{{margin-top:70px;font-weight:700;font-size:25px;letter-spacing:7px;text-transform:uppercase;color:{c}}}
 h1{{margin-top:26px;font-family:'Inter Display','Inter',sans-serif;font-weight:800;font-size:{fs}px;line-height:1.02;letter-spacing:-3.5px;text-wrap:balance}}
 p{{margin-top:36px;font-size:40px;line-height:1.3;color:#C3CCDB;max-width:860px;text-wrap:balance}}
-.cta{{margin-top:auto;align-self:flex-start;background:{c};color:{p['escuro']};font-weight:800;font-size:40px;letter-spacing:-.8px;padding:26px 46px;border-radius:999px}}
+.foot{{margin-top:auto;display:flex;align-items:center;gap:28px}}small{{font-size:22px;color:#8B97AD;line-height:1.3}}
+.cta{{white-space:nowrap;background:{c};color:{p['escuro']};font-weight:800;font-size:40px;letter-spacing:-.8px;padding:26px 46px;border-radius:999px}}
 </style></head><body>
-<div class="top">{p['icone'].format(c=c)}<span>{p['nome']} <span style="color:{c}">{p['nome2']}</span></span><i>OCEANOS SISTEMAS</i></div>
+<div class="top">{p['icone'].format(c=c)}<span>{p['nome']} <span style="color:{c}">{p['nome2']}</span></span><i>{p.get('direita','OCEANOS SISTEMAS')}</i></div>
 <div class="tag">{html.escape(tag)}</div><h1>{t}</h1><p>{html.escape(sub)}</p>
-<div class="cta">{p['cta']}</div></body></html>"""
+<div class="foot"><div class="cta">{p['cta']}</div><small>{p.get('nota','')}</small></div></body></html>"""
 
 base = Path(__file__).resolve().parent
 with sync_playwright() as pw:
