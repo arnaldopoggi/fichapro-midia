@@ -16,15 +16,17 @@ Quem vende muito de um prato com o custo mal calculado perde um pouco em cada pe
 
 #restaurante #fichatecnica #cmv #precificacao #gastronomia"""
 
-17/11/2026 — POST (create_image_post): BASE + oceanos-financeiro/ad-01-dor.jpg
+17/11/2026 — POST (create_image_post): BASE + oceanos-financeiro-azul/02-planilha-feed.jpg
 Legenda:
-"""Vendeu bem e o dinheiro sumiu?
+"""Chega de perder tempo digitando cada despesa em planilha e sentindo o dinheiro indo embora sem saber para onde vai.
 
-Venda não é caixa. Sem ver entradas e saídas, o mês fecha e ninguém sabe para onde foi o dinheiro. No Oceanos Financeiro você importa o extrato e vê fluxo de caixa e DRE, sem planilha.
+Com o Oceanos Financeiros você importa o PDF do extrato do cartão ou do banco e ele já preenche tudo e classifica suas despesas por você.
 
-👉 Teste grátis por 7 dias. Link na bio.
+Sem digitar. Sem perder tempo. E ainda com sugestões do que fazer para economizar mais, metas de poupança e uma função especial para controlar e eliminar todas as suas dívidas.
 
-#gestaofinanceira #fluxodecaixa #dre #pequenasempresas #empreendedorismo"""
+Comece a poupar sem dor. Link na bio.
+
+#OceanosFinanceiros #ControleFinanceiro #SairDasDividas #PouparSemDor #FinançasPessoais"""
 
 18/11/2026 — POST (create_image_post): BASE + terra-a-vista/ad-01-alivio.jpg
 Legenda:
@@ -56,15 +58,17 @@ Se a resposta é "mais ou menos", falta ficha técnica. No Ficha Pro você vê o
 
 #restaurante #fichatecnica #cmv #precificacao #gastronomia"""
 
-21/11/2026 — POST (create_image_post): BASE + oceanos-financeiro/ad-02-facilidade.jpg
+21/11/2026 — POST (create_image_post): BASE + oceanos-financeiro-azul/03-pdf-cartao-feed.jpg
 Legenda:
-"""Importe o extrato. O DRE sai pronto.
+"""Importou o PDF do cartão. Pronto.
 
-O Oceanos Financeiro lê o extrato em OFX ou CSV, faz a conciliação bancária e monta DRE e fluxo de caixa automáticos.
+O Oceanos Financeiros lê a fatura e já preenche e classifica as despesas por você. Sem digitar linha por linha.
+
+Funciona também com o extrato bancário.
 
 👉 Teste grátis por 7 dias. Link na bio.
 
-#gestaofinanceira #fluxodecaixa #dre #pequenasempresas #empreendedorismo"""
+#OceanosFinanceiros #ControleFinanceiro #FinançasPessoais #organizacaofinanceira #educacaofinanceira"""
 
 22/11/2026 — POST (create_image_post): BASE + terra-a-vista/ad-02-juros.jpg
 Legenda:
@@ -98,15 +102,15 @@ Você conta como faz o prato e o Ficha Pro organiza ingredientes, quantidades e 
 
 #restaurante #fichatecnica #cmv #precificacao #gastronomia"""
 
-25/11/2026 — POST (create_image_post): BASE + oceanos-financeiro/ad-03-risco-zero.jpg
+25/11/2026 — POST (create_image_post): BASE + oceanos-financeiro-azul/09-extrato-aprende-feed.jpg
 Legenda:
-"""7 dias grátis para testar.
+"""Importa o extrato do banco. Ele já aprende tudo.
 
-Importe o extrato, concilie e veja o DRE da sua empresa antes de decidir.
+O Oceanos Financeiros aprende o que é cada despesa e classifica corretamente para você. Nada de planilha, nada de digitar lançamento por lançamento.
 
 👉 Teste grátis por 7 dias. Link na bio.
 
-#gestaofinanceira #fluxodecaixa #dre #pequenasempresas #empreendedorismo"""
+#OceanosFinanceiros #ControleFinanceiro #FinançasPessoais #organizacaofinanceira #educacaofinanceira"""
 
 26/11/2026 — POST (create_image_post): BASE + terra-a-vista/ad-03-escolha.jpg
 Legenda:
@@ -143,15 +147,15 @@ Comece pela ficha do seu prato principal: ingredientes, sub-receitas, impostos e
 
 #restaurante #fichatecnica #cmv #precificacao #gastronomia"""
 
-29/11/2026 — POST (create_image_post): BASE + oceanos-financeiro/ad-04-preco.jpg
+29/11/2026 — POST (create_image_post): BASE + oceanos-financeiro-azul/08-para-onde-vai-feed.jpg
 Legenda:
-"""Financeiro completo por ≈ R$ 82/mês.
+"""Você sabe para onde vai seu dinheiro?
 
-Plano anual de R$ 987, sem fidelidade, com integração Asaas, Banco Cora e Domínio.
+Moradia, alimentação, transporte, lazer: com as despesas classificadas, você enxerga quanto vai para cada coisa. Sem planilha e sem digitar.
 
 👉 Teste grátis por 7 dias. Link na bio.
 
-#gestaofinanceira #fluxodecaixa #dre #pequenasempresas #empreendedorismo"""
+#OceanosFinanceiros #ControleFinanceiro #FinançasPessoais #organizacaofinanceira #educacaofinanceira"""
 
 30/11/2026 — POST (create_image_post): BASE + terra-a-vista/ad-04-primeiro-passo.jpg
 Legenda:
@@ -183,15 +187,15 @@ Quando o custo muda e o cardápio não, a diferença sai da sua margem. O Ficha 
 
 #restaurante #fichatecnica #cmv #precificacao #gastronomia"""
 
-03/12/2026 — POST (create_image_post): BASE + oceanos-financeiro/ad-05-mistura.jpg
+03/12/2026 — POST (create_image_post): BASE + oceanos-financeiro-azul/07-sugestoes-feed.jpg
 Legenda:
-"""Conta da empresa e pessoal misturadas?
+"""Ele te diz o que fazer para economizar mais.
 
-Quando tudo passa pela mesma conta, fica difícil saber se a empresa dá lucro. No Oceanos Financeiro você acompanha várias empresas e as finanças pessoais em um lugar só.
+O Oceanos Financeiros traz sugestões de economia e metas de poupança automáticas, para você começar a poupar sem dor e sem perder tempo.
 
 👉 Teste grátis por 7 dias. Link na bio.
 
-#gestaofinanceira #fluxodecaixa #dre #pequenasempresas #empreendedorismo"""
+#OceanosFinanceiros #ControleFinanceiro #FinançasPessoais #organizacaofinanceira #educacaofinanceira"""
 
 04/12/2026 — POST (create_image_post): BASE + terra-a-vista/ad-05-progresso.jpg
 Legenda:
@@ -225,15 +229,15 @@ O Ficha Pro junta ficha técnica, estoque FEFO e preço com markup e impostos.
 
 #restaurante #fichatecnica #cmv #precificacao #gastronomia"""
 
-07/12/2026 — POST (create_image_post): BASE + oceanos-financeiro/ad-06-contraste.jpg
+07/12/2026 — POST (create_image_post): BASE + oceanos-financeiro-azul/01-controle-feed.jpg
 Legenda:
-"""Lucro no papel não paga boleto.
+"""Sua empresa no controle, sem planilha.
 
-Uma empresa pode dar lucro no DRE e ficar sem caixa no dia do pagamento. Por isso o Oceanos Financeiro monta os dois, DRE e fluxo de caixa, a partir do extrato.
+Importe o extrato e acompanhe receitas, despesas, DRE e fluxo de caixa no Oceanos Financeiros.
 
 👉 Teste grátis por 7 dias. Link na bio.
 
-#gestaofinanceira #fluxodecaixa #dre #pequenasempresas #empreendedorismo"""
+#OceanosFinanceiros #gestaofinanceira #fluxodecaixa #dre #pequenasempresas"""
 
 08/12/2026 — POST (create_image_post): BASE + terra-a-vista/ad-06-gratis.jpg
 Legenda:
