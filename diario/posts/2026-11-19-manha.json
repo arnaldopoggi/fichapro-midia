@@ -1,0 +1,11 @@
+{
+  "tipo": "dado",
+  "etiqueta": "Dado do dia · 19/11",
+  "titulo": "Pequena empresa está *pedindo mais crédito*",
+  "numero": "+10%",
+  "numero_legenda": "na procura por crédito de micro e pequenas, 12 meses até set/2026",
+  "corpo": ["Total das empresas: +9,9% em 12 meses", "Em setembro, comércio e indústria recuaram", "E o mercado de crédito está mais restritivo"],
+  "solucao": "Peça crédito com números na mão. *Oceanos Financeiro*: DRE e fluxo de caixa.",
+  "fonte": "Fonte: Serasa Experian, demanda por crédito set/2026, divulgada em 17/11/2026",
+  "rodape": "Salve para não esquecer"
+}
