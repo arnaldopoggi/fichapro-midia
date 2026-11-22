@@ -1,0 +1,11 @@
+{
+  "tipo": "dado",
+  "etiqueta": "Dado do dia · 22/11",
+  "titulo": "A economia *freou* no 3º trimestre. Seu caixa sentiu?",
+  "numero": "-0,9%",
+  "numero_legenda": "no IBC-Br do 3º tri, a prévia do PIB do Banco Central",
+  "corpo": ["Em setembro, o índice caiu 0,2% sobre agosto", "Venda mais lenta chega primeiro no caixa", "Olhe as próximas 8 semanas, não só o mês"],
+  "solucao": "Veja o caixa das próximas semanas no *Oceanos Financeiro*.",
+  "fonte": "Fonte: Banco Central (IBC-Br de set/2026), via Agência Brasil, divulgado em 16/11/2026",
+  "rodape": "Salve para não esquecer"
+}
