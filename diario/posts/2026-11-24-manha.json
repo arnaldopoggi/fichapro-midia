@@ -1,0 +1,11 @@
+{
+  "tipo": "dado",
+  "etiqueta": "Dado do dia · 24/11",
+  "titulo": "O juro alto vai *entrar em 2027*. Seu caixa está pronto?",
+  "numero": "13%",
+  "numero_legenda": "é a Selic prevista para o fim de 2027 (antes: 12,75%)",
+  "corpo": ["Para o fim de 2026, a previsão segue 13,75%", "Capital de giro caro por mais tempo", "Antecipe recebíveis só com conta feita"],
+  "solucao": "Veja seu fluxo de caixa no *Oceanos Financeiro*.",
+  "fonte": "Fonte: Banco Central (Boletim Focus), via Exame, divulgado em 23/11/2026",
+  "rodape": "Mande para o seu sócio"
+}
